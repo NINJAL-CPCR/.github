@@ -6,7 +6,7 @@
 
 研究者、学生、言語愛好家が交流し、協力し合えるプラットフォームを目指しています。皆さんの貢献とフィードバックを歓迎します。
 
-# National Institute for Japanese Language and Linguistics (NINJAL) Collaborative Research Center's GitHub Repo
+# National Institute for Japanese Language and Linguistics (NINJAL) Center for the Promotion of Collaborative Research (CPCR)'s GitHub Repo
 
 This repository is dedicated to sharing the research outputs of the National Institute for Japanese Language and Linguistics Collaborative Research Center. It features a wide range of linguistic research projects, digital humanities initiatives, language data archives, as well as materials related to language education and policy.
 
